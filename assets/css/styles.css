@@ -1,0 +1,38 @@
+header h1{
+    background-color: rgb(253, 100, 100);
+    color: rgb(253, 253, 253);
+    text-align: center;
+}
+
+.espacio-arriba-1{
+    padding-top: 1rem;
+}
+.espacio-arriba-2{
+    padding-top: 1.2rem;
+}
+
+.espacio-abajo-1{
+    padding-bottom: 1rem;
+}
+.espacio-abajo-2{
+    padding-bottom: 1.2rem;
+}
+.distancia-arriba-1{
+    margin-top: 1rem;
+}
+.distancia-arriba-2{
+    margin-top: 1.2rem;
+}
+.distancia-arriba-3{
+    margin-top: 1.5rem;
+}
+.distancia-arriba-4{
+    margin-top: 1.8rem;
+}
+.distancia-arriba-5{
+    margin-top: 2rem;
+}
+
+.borde-1{
+    border-radius: .3rem;
+}
